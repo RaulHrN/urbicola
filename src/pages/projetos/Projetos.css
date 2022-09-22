@@ -1,0 +1,34 @@
+.swiper {
+  width: 100%;
+  padding: 0 3rem;
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-button-next, .swiper-button-prev{
+ color: rgba(0, 0, 0, 0.402) !important;
+ --swiper-navigation-size: 1rem !important;
+}
+
+.botoes-carousel button {
+  cursor: pointer;
+  width: 100%;
+  height: 60px;
+  background-color: #EACFE2;
+  border: none;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-size: 1.2rem;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.botoes-carousel button:focus {
+  background-color: #FFFFFF;
+  color: #EACFE2;
+  border: 1px solid #EACFE2;
+}

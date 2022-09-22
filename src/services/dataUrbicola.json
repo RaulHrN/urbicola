@@ -1,0 +1,151 @@
+{
+  "servicos": [
+    {
+      "id": 1,
+      "imagem": "projetoArquiteturaExecutivo.png",
+      "titulo": "Projeto de Arquitetura e Projeto Executivo",
+      "resumo": "Realizamos todo o levantamento necessário para a concepção da planta baixa ideal para o seu Projeto Arquitetônico!"
+    },
+    {
+      "id": 2,
+      "imagem": "projetoInteriores.png",
+      "titulo": "Projeto de Interiores",
+      "resumo": ""
+    },
+    {
+      "id": 3,
+      "imagem": "rrt.png",
+      "titulo": "RRT - Projeto Legal",
+      "resumo": ""
+    },
+    {
+      "id": 4,
+      "imagem": "projetoRegularizacao.png",
+      "titulo": "Projeto de Regularização",
+      "resumo": ""
+    },
+    {
+      "id": 5,
+      "imagem": "gerenciamentoReformaConstrucao.png",
+      "titulo": "Gerenciamento de Reforma e Construção",
+      "resumo": "Realizamos um planejamento orçamentário detalhado com todos os elementos necessários para iniciar uma obra. Adequando o melhor custo-benefício, mostrando a previsão de custos gerais e prazos de ..."
+    },
+    {
+      "id": 6,
+      "imagem": "acompanhamentoReformaConstrucao.png",
+      "titulo": "Acompanhamento de Reforma e Construção",
+      "resumo": "Acompanhamento e gestão de obra para a integral execução do projeto. Visitas feitas na obra semanalmente para fiscalizar a qualidade da obra e a adequação com o projeto executivo. Direcionamos ..."
+    }
+  ],
+
+  "fundadores": [
+    {
+      "id": 1,
+      "imagem": "alexandra.JPEG",
+      "nome": "Alexandra Ferri",
+      "profissao": "Arquiteta, Urbanista e Designer",
+      "resumo": "Trás para o Urbí a singularidade de criar projetos que expressam originalidade e inovação. Por seu envolvimento junto a trabalhos sociais, tem forte relação com a Arquitetura sustentável e acessível. Busca assim, a escolha dos melhores materiais que expressam afeto e aconchego nos projetos. Além disso, seus interesses estão sempre ligados a arte, musica e cultura, vertentes importantes dentro da arquitetura.",
+      "social": {
+        "email": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 2,
+      "imagem": "matheus.JPEG",
+      "nome": "Matheus Sant'ana",
+      "profissao": "Arquiteta, Urbanista e Adm",
+      "resumo": "Trás para o Urbí o equilíbrio entre a criatividade e o olhar técnico, encontrando soluções práticas e funcionais para os projetos. Afim de garantir a agilidade e fluidez da equipe, encontra as melhores soluções para organização e gestão de todas a etapas do projeto arquitetônico.",
+      "social": {
+        "email": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    {
+      "id": 3,
+      "imagem": "barbara.JPEG",
+      "nome": "Barbara Buffone",
+      "profissao": "Arquiteta, Urbanista e Designer",
+      "resumo": "Trás para o Urbí uma das coisas que mais gostou desde a infância: encontrar soluções criativas. Principalmente em ambientes desafiadores e pequenos, enxergar além das soluções tradicionais é essencial para alcançar um bom projeto. Também, por seu contato com a fotografia ao longo da formação, busca sempre conceber um projeto arquitetônico ordeiro, limpo e belo.",
+      "social": {
+        "email": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    }
+  ],
+  "projetos": [
+    {
+      "id": 1,
+      "nome": "apt_alameda_cardim",
+      "titulo": "Apto Alameda Cardim",
+      "descricao": "",
+      "qtd_fotos": 14
+    },
+    {
+      "id": 2,
+      "nome": "apto_frei_caneca",
+      "titulo": "Apto Frei Caneca",
+      "descricao": "",
+      "qtd_fotos": 17
+    },
+    {
+      "id": 3,
+      "nome": "apto_quixada",
+      "titulo": "Apto Quixadá",
+      "descricao": "",
+      "qtd_fotos": 20
+    },
+    {
+      "id": 4,
+      "nome": "apto_uni",
+      "titulo": "Apto Uni",
+      "descricao": "O projeto UNI é um apartamento de 55m² onde buscamos a melhor disposição da área social por eliminar as paredes que dividiam a sala, a cozinha e a varanda. Agora, uma ilha no sentido longitudinal  do ambiente faz uma divisão mais funcional entre sala e cozinha sem tirar a amplitude do apartamento. Para marcenaria e pintura, tons de nude e amadeirado claro proporcional mais leveza e aconchego para a área social, que recebeu um belo jardim vertical. Também, o uso de trilhos centrais, led e arandela na iluminação possibilita diversos cenários a depender da escolha dos moradores para cada situação nos ambiente integrados.",
+      "qtd_fotos": 33
+    },
+    {
+      "id": 5,
+      "nome": "casa_atibaia",
+      "titulo": "Casa Atibaia",
+      "descricao": "Para o projeto casa Atibaia foi adotado o estilo moderno, trazendo linhas retas em sua fachada com um pé direito alto nas áreas sociais. A casa possui uma área gourmet de churrasqueira ao lado da piscina e um belo jardim nos fundo, possibilitando uma área social totalmente integrada. Para o quarto, a combinação de cores claras, tons amadeirados e uma boa iluminação, trouxe todo o conforto que esse casal precisava. Para isso acontecer usamos um ripado na cabeceira da cama, pendentes dourados, e o guarda roupa com portas translúcidas. No banheiro a proposta foi trazer um ambiente refinado, com cores neutras. Para isso, usamos metais preto, porcelanato acinzentado e uma cuba esculpida.",
+      "qtd_fotos": 11
+    },
+    {
+      "id": 6,
+      "nome": "casa_guararema",
+      "titulo": "Casa Guararema",
+      "descricao": "A Casa Guararema foi projetada com um estilo arquitetônico moderno. O amplo uso de vidros e o pé direito duplo na sala proporcionam amplitude interna e uma conexão com a vasta natureza existente ao seu redor. No pavimento térreo o projeto traz uma ampla área social integrada entre salas e cozinha, uma suíte para hóspedes, um lavabo, área de serviço e uma garagem coberta. Também, por possuir diversas aberturas, foi projetada uma sala de TV fechada que possibilita um melhor conforto visual e sonoro.",
+      "qtd_fotos": 9
+    },
+    {
+      "id": 7,
+      "nome": "casa_guaratuba",
+      "titulo": "Casa Guaratuba",
+      "descricao": "O projeto Guaratuba é uma Casa de veraneio de estilo contemporâneo com uma altura imponente na área social, que confere personalidade ao projeto. Com suas amplas janelas de vidro é possível uma integração agradável com seu entorno, uma área de belos jardins e muito verde. Por ser um terreno de esquina, o edifício forma um L que possibilita uma área de piscina e lazer privativa e voltada para os melhores horários de sol em sua localização.",
+      "qtd_fotos": 37
+    },
+    {
+      "id": 8,
+      "nome": "comercial_mont_serrat",
+      "titulo": "Comercial Monte Serrat",
+      "descricao": "O projeto Monte Sarrat foi desenvolvido para um prédio de uso comercial com laje de vão livre, que possibilita diversas disposições e a formação de diversas salas para clínicas e escritórios. O edifício possui um recuo de respiro, onde foi preservada uma linda videira da construção anterior e que recebeu um elevador panorâmico para essa bela área. A fachada ficou exuberante, com uma palmeira e painéis de desenhos vazados! Este foi um projeto realizado em parceria com a Arquiteta Silmara Navarro, onde desenvolvemos o projeto para execução e em 3D, para melhor visualização dos espaços.",
+      "qtd_fotos": 10
+    },
+    {
+      "id": 9,
+      "nome": "corporativo_master",
+      "titulo": "Corporativo Master",
+      "descricao": "Neste projeto corporativo, a empresa precisava reformar a área da recepção de uma fábrica e adaptá-la ao novo rebranding da marca. Para isso acontecer era preciso usar sua própria paleta de cores, assim, projetamos o teto alaranjado para amplificar o ambiente e tons de azul em mobiliários específicos, buscando trazer um ambiente aconchegante e vivo.",
+      "qtd_fotos": 7
+    },
+    {
+      "id": 10,
+      "nome": "loja_doce_cacau",
+      "titulo": "Loja Doce Cacau",
+      "descricao": "Esse projeto foi desenvolvido para a adequação dos novos serviços que serão oferecidos pela loja e da nova identidade visual da marca. A fachada ganhou um toque especial com os pendentes de iluminação convidando quem está passando a entrar na loja. O ambiente ficou mais acolhedor e aconchegante com o novo balcão ripado de madeira para a venda de sorvetes e com a nova pintura para o forro e paredes, remetendo a calda de chocolate caindo. Isso trouxe mais personalidade para a loja e tornou o ambiente mais atrativo para os clientes.",
+      "qtd_fotos": 13
+    }
+  ]
+}

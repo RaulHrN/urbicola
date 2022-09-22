@@ -1,0 +1,49 @@
+.contato-page h1 {
+    color: #737373;
+}
+
+.contato-info-body {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contato-info, .contato-form {
+    width: 40%;
+    min-height: 100% !important;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+}
+
+.contato-info{
+    gap: 2rem;
+}
+
+.contato-form{
+    gap: 2rem;
+}
+
+.contato-info p {
+    height: 3.5rem;
+    font-size: 1.5rem;
+}
+
+.contato-social{
+    width: 40%;
+    height: 3.5rem;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.contato-social a{
+    display: flex;
+    align-items: center;
+}
+
+.form-input {
+    border-radius: 4px;
+}

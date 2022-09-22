@@ -1,0 +1,45 @@
+.servico-card-body {
+    width: 26%;
+    max-width: 21rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #FFFFFF;
+    box-shadow: 0 0.2rem 1.2rem rgb(172 172 172 / 20%);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.servico-banner {
+    width: 100%;
+    height: 10rem;
+}
+
+.servico-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.2rem;
+    gap: 1.2rem;
+    width: 100%;
+    height: 15rem;
+}
+
+.servico-info-title {
+    font-weight: 600;
+    font-size: 1rem;
+    text-align: center;
+    color: #737373;
+    text-transform: uppercase;
+}
+
+.servico-info-resume {
+    width: 100%;
+    height: 100%;
+    font-size: 0.8rem;
+    text-align: justify;
+    letter-spacing: 0.1rem;
+    color: #737373;
+}
