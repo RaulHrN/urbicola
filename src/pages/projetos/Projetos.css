@@ -1,15 +1,15 @@
-.swiper {
+.botoes-carousel {
   width: 100%;
   padding: 0 3rem;
 }
 
-.swiper-slide {
+.botoes-carousel .swiper-slide {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.swiper-button-next, .swiper-button-prev{
+.botoes-carousel .swiper-button-next, .swiper-button-prev{
  color: rgba(0, 0, 0, 0.402) !important;
  --swiper-navigation-size: 1rem !important;
 }
@@ -31,4 +31,9 @@
   background-color: #FFFFFF;
   color: #EACFE2;
   border: 1px solid #EACFE2;
+}
+
+
+.carousel-img{
+  width: 200px;
 }

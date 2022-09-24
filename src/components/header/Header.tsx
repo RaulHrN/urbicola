@@ -19,7 +19,7 @@ export const Header = () => {
         <Link href="/sobre_nos" underline="none">
           Sobre Nós
         </Link>
-        <Link href="contato" underline="none">
+        <Link href="/contato" underline="none">
           Contato
         </Link>
         </nav>

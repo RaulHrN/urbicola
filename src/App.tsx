@@ -1,7 +1,7 @@
 import React from 'react';
 import "./App.css";
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import { Initial } from './pages/initial/Initial';
+import { Home } from './pages/home/Home';
 import { Servicos } from './pages/servicos/Servicos';
 import { Header } from './components/header/Header';
 import { Footer } from './components/footer/Footer';
@@ -27,7 +27,7 @@ function App() {
       <Router>
         <Switch>
           <Route exact path='/'>
-            <Initial/>
+            <Home/>
           </Route>
           <Route path='/servicos'>
             <Header/>
